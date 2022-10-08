@@ -120,7 +120,7 @@ global.lynk = 'https://lynk.id/'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/Lakshan.O_o'
 global.sgh = 'https://github.com/lilybotz' //github
-global.sgc = https://chat.whatsapp.com/FKB3BjBGMYjBJZfJXjEAOa' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/FKB3BjBGMYjBJZfJXjEAOa' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/'
 
