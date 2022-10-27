@@ -81,22 +81,22 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['94726083178', 'Lakshan', true],
-['94773046631', 'Lucky', false]
+['94723597128', 'thenuka', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '94781404440'
+global.nomorbot = '94723597128'
 global.nomorown = '94726083178'
 global.nomorown1 = '94726083178'
-global.nomorown2 = '94726083178'
+global.nomorown2 = '94723597128'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Lakshan'
-global.namebot = '​ Rikka 𝐌𝐝'
+global.author = 'thenuka'
+global.namebot = '​Boss baby'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Rikka 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = 'Rikka 𝑴𝒅 '
@@ -111,7 +111,7 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'Lakshan'
-global.nameown2 = 'Lucky'
+global.nameown2 = 'thenuka'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Alice'
 global.lynk = 'https://lynk.id/'
